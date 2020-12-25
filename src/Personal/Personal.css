@@ -1,0 +1,21 @@
+.body{
+  width: 600px;
+  height: 555ppx;
+  border: 1px solid #c3c3c3; 
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.form-body{
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+select {
+  font-family: Arial;
+}

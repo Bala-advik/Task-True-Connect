@@ -1,0 +1,11 @@
+.tabs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    background-color: #151048;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
